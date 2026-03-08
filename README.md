@@ -10,11 +10,11 @@ I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Subst
 
 | Article | With |
 |---|---|
-| [He Built an MCP Server So You Can Talk to AI About Any Substack Author](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author) | Jenny Ouyang / [Build to Launch](https://buildtolaunch.substack.com) |
-| [8 Hours to 3,000 Users: How He Built a Viral Year-in-Review](https://buildtolaunch.substack.com/p/vibe-coding-builders-viral-substack-year-in-review-app) | Jenny Ouyang / [Build to Launch](https://buildtolaunch.substack.com) |
-| [Agentic Data Stack: A New Era For Data Professionals](https://moderndata101.substack.com/p/agentic-data-stack-new-era-for-data-professionals) | [Modern Data 101](https://moderndata101.substack.com) |
-| [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Modern Data 101](https://moderndata101.substack.com) |
+| [End To End Agentic Data Modeling with OpenMetadata and MCP](https://pipeline2insights.substack.com/p/end-to-end-agentic-data-modeling-with-openmetadata-and-mcp) | [Pipeline To Insights](https://pipeline2insights.substack.com) |
+| [All You Can Do Before Airflow](https://dataengineeringcentral.substack.com/p/all-you-can-do-before-airflow) | [Data Engineering Central](https://dataengineeringcentral.substack.com) |
+| [How Long Until We Call AI Agents Data Products](https://moderndata101.substack.com/p/data-products-as-ai-agents) | [Modern Data 101](https://moderndata101.substack.com) |
 | [Behind the Scenes of AI Observability in Production](https://www.decodingai.com/p/behind-the-scenes-of-ai-observability) | Paul / [Decoding AI](https://www.decodingai.com) |
+| [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Modern Data 101](https://moderndata101.substack.com) |
 
 ---
 
