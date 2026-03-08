@@ -1,4 +1,4 @@
-## Hi there, I'm Alejandro 👋
+## Hi there, I'm Ale 👋
 
 🔧 Data engineer writing about the intersection of data engineering, AI agents, MCP, and developer tools.
 
@@ -49,7 +49,7 @@
 ### 🚀 Projects
 
 - **[substackrecapped.com](https://substackrecapped.com)** — Year-in-review for Substack authors. 3,000 users in the first 8 hours.
-- **[substack-author-mcp](https://github.com/aboyalejandro/substack-author-mcp)** — MCP server that lets AI assistants read and analyze any Substack publication.
+- **[substack-author-mcp](https://substack-author.fastmcp.app/mcp)** — MCP server that lets AI assistants read and analyze any Substack publication.
 
 ---
 
