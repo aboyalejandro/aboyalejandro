@@ -4,6 +4,8 @@
 
 📝 I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Substack — 58+ articles and counting on building with the modern data stack and making AI actually useful for data teams.
 
+Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-aboy/?locale=en)
+
 ---
 
 ### ⭐ Highlights
@@ -64,5 +66,3 @@
 ---
 
 ⚡ Currently building with dbt, DuckDB, Claude Code, and MCP.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-aboy/?locale=en)
