@@ -11,8 +11,8 @@ I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Subst
 - [How AI Can Improve Your Data Modeling (And What's Still Missing)](https://thepipeandtheline.substack.com/p/how-ai-can-improve-your-data-modeling)
 - [DuckDB: The Swiss Army Knife For Data Engineers](https://thepipeandtheline.substack.com/p/duckdb-the-swiss-army-knife-for-data)
 - [What's the real deal about SKILLs (This is not a 'MCP is dead' post)](https://thepipeandtheline.substack.com/p/whats-the-real-deal-about-skills)
-- [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent)
 - [Learnings From 1 Year of Building AI Agents](https://thepipeandtheline.substack.com/p/learnings-from-1-year-of-building)
+- [Portable Data Stack with dbt, DuckDB, Sheets and Looker Studio](https://thepipeandtheline.substack.com/p/portable-data-stack-concept-with-dbt-duckdb-sheets-looker-studio)
 
 ---
 
