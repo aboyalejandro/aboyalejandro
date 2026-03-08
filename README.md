@@ -1,12 +1,22 @@
-## Hi, I'm Alejandro
+## Hi there, I'm Alejandro 👋
 
-Data engineer writing about the intersection of data engineering, AI agents, MCP, and developer tools.
+🔧 Data engineer writing about the intersection of data engineering, AI agents, MCP, and developer tools.
 
-I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Substack — 58+ articles and counting on building with the modern data stack and making AI actually useful for data teams.
+📝 I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Substack — 58+ articles and counting on building with the modern data stack and making AI actually useful for data teams.
 
 ---
 
-### Highlights
+### 🛠️ Tech Stack
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,bash,supabase,fastapi,obsidian,vscode,gcp,aws,linux,markdown&perline=7" />
+</a>
+</p>
+
+---
+
+### ⭐ Highlights
 
 - [How AI Can Improve Your Data Modeling (And What's Still Missing)](https://thepipeandtheline.substack.com/p/how-ai-can-improve-your-data-modeling)
 - [DuckDB: The Swiss Army Knife For Data Engineers](https://thepipeandtheline.substack.com/p/duckdb-the-swiss-army-knife-for-data)
@@ -16,7 +26,7 @@ I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Subst
 
 ---
 
-### Collaborations
+### 🤝 Collaborations
 
 | Article | Publication |
 |---|---|
@@ -28,7 +38,7 @@ I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Subst
 
 ---
 
-### Recent Articles
+### 📰 Recent Articles
 
 <!-- ARTICLES:START -->
 
@@ -46,11 +56,21 @@ I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Subst
 
 ---
 
-### Projects
+### 🚀 Projects
 
 - **[substackrecapped.com](https://substackrecapped.com)** — Year-in-review for Substack authors. 3,000 users in the first 8 hours.
 - **[substack-author-mcp](https://github.com/aboyalejandro/substack-author-mcp)** — MCP server that lets AI assistants read and analyze any Substack publication.
 
 ---
 
-Currently building with dbt, DuckDB, Claude Code, and MCP.
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+⚡ Currently building with dbt, DuckDB, Claude Code, and MCP.
