@@ -30,11 +30,11 @@
 
 | Article | Publication |
 |---|---|
+| [How Long Until We Call AI Agents Data Products](https://moderndata101.substack.com/p/data-products-as-ai-agents) | [Modern Data 101](https://moderndata101.substack.com) |
+| [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Data Gibberish](https://www.datagibberish.com) |
+| [Behind the Scenes of AI Observability in Production](https://www.decodingai.com/p/behind-the-scenes-of-ai-observability) | [Decoding AI](https://www.decodingai.com) |
 | [End To End Agentic Data Modeling with OpenMetadata and MCP](https://pipeline2insights.substack.com/p/end-to-end-agentic-data-modeling-with-openmetadata-and-mcp) | [Pipeline To Insights](https://pipeline2insights.substack.com) |
 | [All You Can Do Before Airflow](https://dataengineeringcentral.substack.com/p/all-you-can-do-before-airflow) | [Data Engineering Central](https://dataengineeringcentral.substack.com) |
-| [How Long Until We Call AI Agents Data Products](https://moderndata101.substack.com/p/data-products-as-ai-agents) | [Modern Data 101](https://moderndata101.substack.com) |
-| [Behind the Scenes of AI Observability in Production](https://www.decodingai.com/p/behind-the-scenes-of-ai-observability) | [Decoding AI](https://www.decodingai.com) |
-| [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Modern Data 101](https://moderndata101.substack.com) |
 
 ---
 
