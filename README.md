@@ -34,11 +34,11 @@
 
 | Date | Article | Tags |
 |---|---|---|
-| 2026-03 | [Hands-On Claude Code for Data Engineers: Data Modeling with dbt, Miro & PostgreSQL](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-data-modeling-dbt-miro-postgresql-skills-mcp) | `ai` `dbt` |
-| 2026-03 | [How Long Until We Call AI Agents Data Products](https://thepipeandtheline.substack.com/p/data-products-as-ai-agents) | `ai` `data-engineering` |
-| 2026-02 | [Intro To Claude Code For Data Engineers](https://thepipeandtheline.substack.com/p/intro-claude-code-for-data-engineers) | `ai` `tools` |
-| 2026-02 | [What A Time To Be A Data Engineer (On Steroids)](https://thepipeandtheline.substack.com/p/what-a-time-to-be-a-data-engineer) | `data-engineering` `ai` `career` |
-| 2026-02 | [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent) | `ai` |
+| 2026-03-05 | [Hands-On Claude Code for Data Engineers: Data Modeling with dbt, Miro & PostgreSQL](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-data-modeling-dbt-miro-postgresql-skills-mcp) | `ai` `dbt` |
+| 2026-03-04 | [How Long Until We Call AI Agents Data Products](https://thepipeandtheline.substack.com/p/data-products-as-ai-agents) | `ai` `data-engineering` |
+| 2026-02-26 | [Intro To Claude Code For Data Engineers](https://thepipeandtheline.substack.com/p/intro-claude-code-for-data-engineers) | `ai` `tools` |
+| 2026-02-21 | [What A Time To Be A Data Engineer (On Steroids)](https://thepipeandtheline.substack.com/p/what-a-time-to-be-a-data-engineer) | `data-engineering` `ai` `career` |
+| 2026-02-19 | [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent) | `ai` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
