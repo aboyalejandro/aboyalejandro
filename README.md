@@ -6,16 +6,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,bash,supabase,fastapi,obsidian,vscode,gcp,aws,linux,markdown&perline=7" />
-</a>
-</p>
-
----
-
 ### ⭐ Highlights
 
 - [How AI Can Improve Your Data Modeling (And What's Still Missing)](https://thepipeandtheline.substack.com/p/how-ai-can-improve-your-data-modeling)
@@ -63,13 +53,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aboyalejandro/aboyalejandro/output/dist/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,bash,supabase,fastapi,obsidian,vscode,gcp,aws,linux,markdown&perline=7" />
+</a>
+</p>
 
 ---
 
