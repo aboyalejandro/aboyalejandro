@@ -2,7 +2,7 @@
 
 🔧 Data engineer writing about the intersection of data engineering, AI agents, MCP, and developer tools.
 
-📝 I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Substack — 58+ articles and counting on building with the modern data stack and making AI actually useful for data teams.
+📝 I publish [The Pipe & The Line](https://thepipeandtheline.substack.com) on Substack — 60+ articles and counting on building with the modern data stack and making AI actually useful for data teams.
 
 Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-aboy/?locale=en)
 
@@ -14,7 +14,7 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 - [DuckDB: The Swiss Army Knife For Data Engineers](https://thepipeandtheline.substack.com/p/duckdb-the-swiss-army-knife-for-data)
 - [What's the real deal about SKILLs (This is not a 'MCP is dead' post)](https://thepipeandtheline.substack.com/p/whats-the-real-deal-about-skills)
 - [Learnings From 1 Year of Building AI Agents](https://thepipeandtheline.substack.com/p/learnings-from-1-year-of-building)
-- [Portable Data Stack with dbt, DuckDB, Sheets and Looker Studio](https://thepipeandtheline.substack.com/p/portable-data-stack-concept-with-dbt-duckdb-sheets-looker-studio)
+- [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent)
 
 ---
 
@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-03-12 | [Getting Started With Orchestra - Workflow Orchestration Without the Airflow Tax](https://thepipeandtheline.substack.com/p/getting-started-with-orchestra-workflow) | `data-engineering` |
 | 2026-03-05 | [Hands-On Claude Code for Data Engineers: Data Modeling with dbt, Miro & PostgreSQL](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-data-modeling-dbt-miro-postgresql-skills-mcp) | `ai` `dbt` |
 | 2026-03-04 | [How Long Until We Call AI Agents Data Products](https://thepipeandtheline.substack.com/p/data-products-as-ai-agents) | `ai` `data-engineering` |
 | 2026-02-26 | [Intro To Claude Code For Data Engineers](https://thepipeandtheline.substack.com/p/intro-claude-code-for-data-engineers) | `ai` `tools` |
 | 2026-02-21 | [What A Time To Be A Data Engineer (On Steroids)](https://thepipeandtheline.substack.com/p/what-a-time-to-be-a-data-engineer) | `data-engineering` `ai` `career` |
-| 2026-02-19 | [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent) | `ai` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
