@@ -13,7 +13,7 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 - [How AI Can Improve Your Data Modeling (And What's Still Missing)](https://thepipeandtheline.substack.com/p/how-ai-can-improve-your-data-modeling)
 - [DuckDB: The Swiss Army Knife For Data Engineers](https://thepipeandtheline.substack.com/p/duckdb-the-swiss-army-knife-for-data)
 - [What's the real deal about SKILLs (This is not a 'MCP is dead' post)](https://thepipeandtheline.substack.com/p/whats-the-real-deal-about-skills)
-- [Learnings From 1 Year of Building AI Agents](https://thepipeandtheline.substack.com/p/learnings-from-1-year-of-building)
+- [Intro To Claude Code For Data Engineers (Skills, MCPs & Hooks)](https://thepipeandtheline.substack.com/p/intro-claude-code-for-data-engineers)
 - [Building a Substack Agent with SKILLs and MCP](https://thepipeandtheline.substack.com/p/hands-on-building-a-substack-agent)
 
 ---
@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-03-26 | [SQL to dbt guide: Macros & Code Reusability](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-macros-and-code) | `dbt` |
+| 2026-03-23 | [SQL to dbt guide: Slowly Changing Dimensions with dbt Snapshots](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-slowly-changing) | `dbt` |
+| 2026-03-19 | [BI as Code for Data Engineers: Faster Analytics With SQL & Markdown](https://thepipeandtheline.substack.com/p/bi-as-code-data-engineers) | `data-engineering` |
 | 2026-03-12 | [Getting Started With Orchestra - Workflow Orchestration Without the Airflow Tax](https://thepipeandtheline.substack.com/p/getting-started-with-orchestra-workflow) | `data-engineering` |
 | 2026-03-05 | [Hands-On Claude Code for Data Engineers: Data Modeling with dbt, Miro & PostgreSQL](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-data-modeling-dbt-miro-postgresql-skills-mcp) | `ai` `dbt` |
-| 2026-03-04 | [How Long Until We Call AI Agents Data Products](https://thepipeandtheline.substack.com/p/data-products-as-ai-agents) | `ai` `data-engineering` |
-| 2026-02-26 | [Intro To Claude Code For Data Engineers](https://thepipeandtheline.substack.com/p/intro-claude-code-for-data-engineers) | `ai` `tools` |
-| 2026-02-21 | [What A Time To Be A Data Engineer (On Steroids)](https://thepipeandtheline.substack.com/p/what-a-time-to-be-a-data-engineer) | `data-engineering` `ai` `career` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
