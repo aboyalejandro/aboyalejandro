@@ -26,7 +26,7 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 | [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Data Gibberish](https://www.datagibberish.com) |
 | [Behind the Scenes of AI Observability in Production](https://www.decodingai.com/p/behind-the-scenes-of-ai-observability) | [Decoding AI](https://www.decodingai.com) |
 | [End To End Agentic Data Modeling with OpenMetadata and MCP](https://pipeline2insights.substack.com/p/end-to-end-agentic-data-modeling-with-openmetadata-and-mcp) | [Pipeline To Insights](https://pipeline2insights.substack.com) |
-| [All You Can Do Before Airflow](https://dataengineeringcentral.substack.com/p/all-you-can-do-before-airflow) | [Data Engineering Central](https://dataengineeringcentral.substack.com) |
+| [The AI Data Modeling Tax: Working On Human Readiness Before AI Readiness](https://moderndata101.substack.com/p/the-ai-data-modeling-tax) | [Modern Data 101](https://moderndata101.substack.com) |
 
 ---
 
@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-04-10 | [Becoming a Data & AI Engineer: An Honest WIP Report](https://thepipeandtheline.substack.com/p/becoming-a-data-ai-engineer-an-honest-wip-report) | `ai` |
+| 2026-04-02 | [The Complete dbt Guide: From SQL to Production-Ready Transformations](https://thepipeandtheline.substack.com/p/the-complete-dbt-guide-from-sql-to) | `dbt` |
 | 2026-03-26 | [SQL to dbt guide: Macros & Code Reusability](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-macros-and-code) | `dbt` |
 | 2026-03-23 | [SQL to dbt guide: Slowly Changing Dimensions with dbt Snapshots](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-slowly-changing) | `dbt` |
 | 2026-03-19 | [BI as Code for Data Engineers: Faster Analytics With SQL & Markdown](https://thepipeandtheline.substack.com/p/bi-as-code-data-engineers) | `data-engineering` |
-| 2026-03-12 | [Getting Started With Orchestra - Workflow Orchestration Without the Airflow Tax](https://thepipeandtheline.substack.com/p/getting-started-with-orchestra-workflow) | `data-engineering` |
-| 2026-03-05 | [Hands-On Claude Code for Data Engineers: Data Modeling with dbt, Miro & PostgreSQL](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-data-modeling-dbt-miro-postgresql-skills-mcp) | `ai` `dbt` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
