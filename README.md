@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-04-23 | [Why Skills and MCP Work Better Together](https://thepipeandtheline.substack.com/p/why-skills-and-mcp-work-better-together) | `ai` |
 | 2026-04-16 | [Becoming a Data & AI Engineer - The Complete Guide](https://thepipeandtheline.substack.com/p/becoming-a-data-and-ai-engineer-the-complete-guide) | `ai` |
 | 2026-04-10 | [Becoming a Data & AI Engineer: An Honest WIP Report](https://thepipeandtheline.substack.com/p/becoming-a-data-ai-engineer-an-honest-wip-report) | `ai` |
 | 2026-04-02 | [The Complete dbt Guide: From SQL to Production-Ready Transformations](https://thepipeandtheline.substack.com/p/the-complete-dbt-guide-from-sql-to) | `dbt` |
 | 2026-03-26 | [SQL to dbt guide: Macros & Code Reusability](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-macros-and-code) | `dbt` |
-| 2026-03-23 | [SQL to dbt guide: Slowly Changing Dimensions with dbt Snapshots](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-slowly-changing) | `dbt` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
