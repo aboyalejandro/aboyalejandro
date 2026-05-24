@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-05-21 | [Progressive Disclosure: The Core Pattern for Analytics Agents](https://thepipeandtheline.substack.com/p/progressive-disclosure-the-core-pattern) | `ai` |
+| 2026-05-14 | [How To Connect Data Models To Your BI With Claude Code, dbt exposures & MCPs](https://thepipeandtheline.substack.com/p/how-to-connect-data-models-to-your) | `ai` `dbt` |
+| 2026-04-28 | [How To Make Your dbt Models AI-Ready With dbt Skills & Postgres MCP](https://thepipeandtheline.substack.com/p/how-to-make-your-dbt-models-ai-ready) | `ai` `dbt` |
 | 2026-04-23 | [Why Skills and MCP Work Better Together](https://thepipeandtheline.substack.com/p/why-skills-and-mcp-work-better-together) | `ai` |
 | 2026-04-16 | [Becoming a Data & AI Engineer - The Complete Guide](https://thepipeandtheline.substack.com/p/becoming-a-data-and-ai-engineer-the-complete-guide) | `ai` |
-| 2026-04-10 | [Becoming a Data & AI Engineer: An Honest WIP Report](https://thepipeandtheline.substack.com/p/becoming-a-data-ai-engineer-an-honest-wip-report) | `ai` |
-| 2026-04-02 | [The Complete dbt Guide: From SQL to Production-Ready Transformations](https://thepipeandtheline.substack.com/p/the-complete-dbt-guide-from-sql-to) | `dbt` |
-| 2026-03-26 | [SQL to dbt guide: Macros & Code Reusability](https://thepipeandtheline.substack.com/p/sql-to-dbt-guide-macros-and-code) | `dbt` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
