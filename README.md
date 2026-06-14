@@ -36,11 +36,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-06-11 | [AI Observability For Data Engineers (a.k.a The AI Analytics Data Pipeline)](https://thepipeandtheline.substack.com/p/ai-observability-for-data-engineers) | `ai` `data-engineering` |
 | 2026-06-04 | [Claude Code For Data Engineers: Hands-On Projects For Your Daily Workflows](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-hands) | `ai` |
 | 2026-05-28 | [Building Secure AI Agents: From Prompt Injection to Production Guardrails](https://thepipeandtheline.substack.com/p/building-secure-ai-agents-from-prompt) | `ai` |
 | 2026-05-21 | [Progressive Disclosure: The Core Pattern for Analytics Agents](https://thepipeandtheline.substack.com/p/progressive-disclosure-the-core-pattern) | `ai` |
 | 2026-05-14 | [How To Connect Data Models To Your BI With Claude Code, dbt exposures & MCPs](https://thepipeandtheline.substack.com/p/how-to-connect-data-models-to-your) | `ai` `dbt` |
-| 2026-04-28 | [How To Make Your dbt Models AI-Ready With dbt Skills & Postgres MCP](https://thepipeandtheline.substack.com/p/how-to-make-your-dbt-models-ai-ready) | `ai` `dbt` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
