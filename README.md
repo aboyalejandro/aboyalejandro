@@ -26,7 +26,7 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 | [Data Engineers Are Becoming MetadataOps Engineers](https://www.datagibberish.com/p/data-engineers-are-becoming-metadataops-engineers) | [Data Gibberish](https://www.datagibberish.com) |
 | [Behind the Scenes of AI Observability in Production](https://www.decodingai.com/p/behind-the-scenes-of-ai-observability) | [Decoding AI](https://www.decodingai.com) |
 | [End To End Agentic Data Modeling with OpenMetadata and MCP](https://pipeline2insights.substack.com/p/end-to-end-agentic-data-modeling-with-openmetadata-and-mcp) | [Pipeline To Insights](https://pipeline2insights.substack.com) |
-| [The AI Data Modeling Tax: Working On Human Readiness Before AI Readiness](https://moderndata101.substack.com/p/the-ai-data-modeling-tax) | [Modern Data 101](https://moderndata101.substack.com) |
+| [How Evaluation-Driven Development (EDD) Works for AI Agents](https://www.decodingai.com/p/how-evaluation-driven-development-works) | [Decoding AI](https://www.decodingai.com) |
 
 ---
 
