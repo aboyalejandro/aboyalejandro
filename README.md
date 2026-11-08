@@ -38,11 +38,11 @@ Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla
 
 | Date | Article | Tags |
 |---|---|---|
+| 2026-11-04 | [How to Know If Your Claude Code Skill Actually Works](https://thepipeandtheline.substack.com/p/evals-for-your-skills-claude-code) | `ai` `tools` |
 | 2026-10-28 | [What Decision Models Change for Data Engineers](https://thepipeandtheline.substack.com/p/what-decision-models-change-for-data-engineers) | `ai` `data-engineering` |
 | 2026-06-11 | [AI Observability For Data Engineers (a.k.a The AI Analytics Data Pipeline)](https://thepipeandtheline.substack.com/p/ai-observability-for-data-engineers) | `ai` `data-engineering` |
 | 2026-06-04 | [Claude Code For Data Engineers: Hands-On Projects For Your Daily Workflows](https://thepipeandtheline.substack.com/p/claude-code-for-data-engineers-hands) | `ai` |
 | 2026-05-28 | [Building Secure AI Agents: From Prompt Injection to Production Guardrails](https://thepipeandtheline.substack.com/p/building-secure-ai-agents-from-prompt) | `ai` |
-| 2026-05-21 | [Progressive Disclosure: The Core Pattern for Analytics Agents](https://thepipeandtheline.substack.com/p/progressive-disclosure-the-core-pattern) | `ai` |
 
 [See all articles →](https://thepipeandtheline.substack.com)
 
